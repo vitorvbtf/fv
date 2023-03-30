@@ -1,0 +1,41 @@
+nav{
+    background-color: rgb(17, 16, 16);
+}
+.fundo{
+    background-color: black;
+    
+}
+a{
+    margin: 0 14px;
+    
+}
+.quem-somos{
+    display: flex;
+    flex-direction: row;
+}
+
+.cor:hover{
+    background-color: #B30900;
+    border-radius: 3px;
+}
+
+.cor_accordion{
+    background-color: black;
+    color: #B30900;
+}
+
+.cor_aberto_accordion_body{
+    color: white;
+    background-color: black;
+}
+
+.negrito{
+    font-weight: bolder;
+}
+
+.video{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
